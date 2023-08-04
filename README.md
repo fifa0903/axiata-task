@@ -14,7 +14,7 @@
 
 ### create access key
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/068a01d8-c088-45b3-8721-e79b55cabc06)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/fe514ff5-4b38-4d65-894f-7b3c01521275)
 
 ### configure ec2 policy
 
