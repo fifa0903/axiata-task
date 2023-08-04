@@ -366,55 +366,55 @@ pipeline{
 
 ### installation process
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/ba267dd8-e4e1-4ed0-a828-5572d3cba1bf)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/90814ec9-10c8-4c17-99d5-9201c3fa6633)
 
 ### create account
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/b82d6cfd-f632-4766-9675-ca74d02deb3f)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/b82d6cfd-f632-4766-9675-ca74d02deb3f)
 
 ### input ip or domain in running app
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/449d73d9-9153-4781-8196-471a8e15392a)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/449d73d9-9153-4781-8196-471a8e15392a)
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/7956b32f-fc03-49c0-a80e-cd6eed93fa9d)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/7956b32f-fc03-49c0-a80e-cd6eed93fa9d)
 
 ### create credential using ssh-key
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/fff926b1-cd1d-496c-9048-aca31d94a738)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/fff926b1-cd1d-496c-9048-aca31d94a738)
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/2872ca00-5df0-4d5b-b093-4ecb4cc09245)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/2872ca00-5df0-4d5b-b093-4ecb4cc09245)
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/46a40777-dbdb-40ed-9fad-cd2d47b32970)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/46a40777-dbdb-40ed-9fad-cd2d47b32970)
 
 ### ssh key for jenkins to server
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/2f839176-5a11-4f30-bbf6-149a9caee15e)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/2f839176-5a11-4f30-bbf6-149a9caee15e)
 
 ### ssh key for server to github
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/836a810d-8517-4345-b0bb-f80738ebb91c)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/836a810d-8517-4345-b0bb-f80738ebb91c)
 
 ### create pipeline
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/88e12ca3-252e-4965-857c-fbd4ebe16b50)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/88e12ca3-252e-4965-857c-fbd4ebe16b50)
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/26c44ab0-fa05-4f7e-b4d9-7b4cd5af22d0)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/26c44ab0-fa05-4f7e-b4d9-7b4cd5af22d0)
 
 ### make Jenkinsfile
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/53ffb1f0-73b5-4139-bc7f-e43c02777753)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/53ffb1f0-73b5-4139-bc7f-e43c02777753)
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/cd8cda0e-5d1a-45d2-95bd-89a1125ab4a4)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/cd8cda0e-5d1a-45d2-95bd-89a1125ab4a4)
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/6203d0ee-cae0-4873-b75f-6bd5a6182781)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/6203d0ee-cae0-4873-b75f-6bd5a6182781)
 
 ### setup github webhook
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/c28bbf06-6296-4afc-828d-e2ce8da286ae)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/c28bbf06-6296-4afc-828d-e2ce8da286ae)
 
 ### execution
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/b7b4ae01-9168-4b12-8700-4feba1db6c77)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/b7b4ae01-9168-4b12-8700-4feba1db6c77)
 
 ![image](https://github.com/fifa0903/axiata-task/assets/132969781/ab509b0b-4fc5-4b40-85fa-994d728edabe)
 
