@@ -241,6 +241,8 @@ docker login, docker tag, and push image to dockerhub
 
 ![image](https://github.com/fifa0903/axiata/assets/132969781/d08b3167-20e6-4614-a903-3f405e5e757f)
 
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/dc1c45bb-cdf2-473c-958b-bd6888b9f2ac)
+
 # Jenkins
 
 ### pipeline (docker compose down, pull github repository, docker compose up, docker push image)
@@ -413,5 +415,7 @@ pipeline{
 ### execution
 
 ![image](https://github.com/fifa0903/axiata/assets/132969781/b7b4ae01-9168-4b12-8700-4feba1db6c77)
+
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/ab509b0b-4fc5-4b40-85fa-994d728edabe)
 
 
