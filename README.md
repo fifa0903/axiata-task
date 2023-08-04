@@ -305,7 +305,7 @@ pipeline{
                 sshagent([cred]){
                     sh """ssh -o StrictHostKeyChecking=no ${server} << EOF
                     cd ${directory1}
-                    docker compose up -d
+                    MYSQL_PASSWORD='faizal1305' docker compose up -d
                     exit
                     EOF"""
                     }
