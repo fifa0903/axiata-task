@@ -18,7 +18,7 @@
 
 ### configure ec2 policy
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/110a435e-7506-4f64-8b6a-500cc7a369c0)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/d1b85703-4333-4a45-9428-a33b9888dc09)
 
 ### make terraform script and apply
 
@@ -124,17 +124,17 @@ output "instance_ips" {
 }
 
 ```
-![image](https://github.com/fifa0903/axiata/assets/132969781/8ee24c80-17f8-4375-a67c-1e9cf1d35ad7)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/be022049-7155-4cb4-9b52-92e5d831988b)
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/fd66b0e1-a224-4a8e-a56f-df5880401877)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/8da2d908-4c79-43df-ad86-d1818143b3d0)
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/645ed730-027b-4144-ad57-d32dcccd5118)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/496092b3-fc8c-4211-84ea-396870dd77f3)
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/26757b2f-9346-4cb4-9476-c9e9c7ecaf9d)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/0027e2c0-91d2-4943-b7ee-2098b9142055)
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/d50dc798-71d2-49b9-aa56-4f9311df26eb)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/3f4fab6e-b923-4642-b3eb-765c7ba843f1)
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/55d26ca5-921b-46e6-a384-48dfc895342f)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/a8209bb3-daa7-4502-82be-d3b228d25b60)
 
 # GCP
 ```
@@ -201,45 +201,45 @@ output "public_ip" {
 
 ### create service account
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/1f27af15-e3df-440a-a8fa-e9f587c75127)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/76d662ef-d873-4b14-84a4-ff7af1c9b4a4)
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/44507ebf-ab73-404e-9381-4769e4a40c17)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/50a5cd6a-c179-4ca4-aeca-df6933863804)
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/d8790cb1-c4c9-45ae-813d-cfd833b6d3e0)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/18bad063-dec4-4339-a63d-8e580dd78231)
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/6001877c-75e6-43a6-9e64-30ae75fc8ade)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/47f1a418-d137-4a3e-a18d-81deb47dd791)
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/5c494f02-dc81-44d0-80d7-c7cab6ec7d63)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/983b7c32-a796-429b-8f74-08a6d6adb0d3)
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/fe6fb2e0-1d97-4492-ba5b-090d992e78d8)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/76f42764-5818-4b16-b4a0-e431b0d2f821)
 
 # Docker 
 
 ### installation
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/3eead336-c7e6-4b32-a5e3-6f668b7b4e99)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/21a256c5-6522-4b7f-a810-06374f1e74de)
 
 ### pull repo
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/5127910d-fabd-4f34-8c8e-a1d3ce5a5dd3)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/def99055-f1f3-4dc9-b701-8497896677bb)
 
 ### running docker compose on dist/docker-compose
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/4ab2ccac-bfd7-4120-afd4-b08ae02e6f36)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/b366054e-ed68-47d9-8e56-08f8ebe0476f)
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/ab93603a-dcf3-4f02-ac95-e525f1bc3134)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/c1610e31-5bb0-4a35-8394-4f155ef16c5d)
 
 the deployment is complete. if there is errorr, it must be setup from app. so we can discuss it with the developer.
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/6ec65165-ef61-44ab-99ff-2ca8370bfc5f)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/c09febad-e574-4ae5-aa17-f321dfe5ed85)
 
 # Dockerhub
 
 docker login, docker tag, and push image to dockerhub
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/66ad92d3-7c3a-4c3a-8f33-561b4fbe813e)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/07f31630-53b6-494f-b0ed-854e2550e0c3)
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/d08b3167-20e6-4614-a903-3f405e5e757f)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/e2c95cfe-b4fc-40a0-80d6-b0db440849fc)
 
 ![image](https://github.com/fifa0903/axiata-task/assets/132969781/dc1c45bb-cdf2-473c-958b-bd6888b9f2ac)
 
@@ -348,21 +348,21 @@ pipeline{
     }
 
 ```
-### making docker file 
+### making docker compose for jenkins
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/d7a7dec4-432a-4c14-9e14-c3d31eeaaf01)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/19422e52-21af-47e7-977f-0bfee919ea92)
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/cb5d83c2-1366-4194-8623-6e0ac0d6fdce)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/6f558c11-287b-49d7-b2da-acad475467ac)
 
 ### copy password from docker logs jenkins
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/920930af-ebc7-41cd-9770-26aaf6b6372b)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/cbf7d8d1-7327-4965-a564-90a7ddfaae58)
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/1a582b58-cbc9-4e54-a8e6-c93b1af2db03)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/682fc495-7eed-40e5-a7c3-6e4ed399dd9c)
 
 ### make sure that ssh-agent is installed
 
-![image](https://github.com/fifa0903/axiata/assets/132969781/04e4ee9c-0401-4056-b4ae-c5c661abd2f1)
+![image](https://github.com/fifa0903/axiata-task/assets/132969781/afd1e881-19fd-452b-9120-2cd2f86f745e)
 
 ### installation process
 
